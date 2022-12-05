@@ -3,7 +3,7 @@ package com.boydlever.daikichiroutes;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//command-shift-0
+//command-shift-O
 @RestController
 @RequestMapping("/daikichi")
 public class DaikichiController {
